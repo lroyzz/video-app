@@ -5,7 +5,7 @@
         <div class="left-header fl" @click="toggleSideBar">
           <i class="fa fa-bars"></i>
           <img src="https://ooo.0o0.ooo/2017/06/30/595605552345a.png" alt="user-pic" class="a-user-pic">
-          <img src="https://ooo.0o0.ooo/2017/06/29/5954b017c80a7.png" alt="ac-Logo" class="ac-Logo">
+          <img src="../assets/img/logo-test.png" alt="ac-Logo" class="ac-Logo">
         </div>
         <div class="right-header fr">
           <i class="fa fa-gamepad"></i>
@@ -16,16 +16,22 @@
       </div>
       <div class="a-navbar">
         <ul>
-          <li class="a-follow">
+          <!--<li class="a-follow">
             <router-link to="/follow">关注</router-link>
-          </li>
+          </li>-->
           <li class="a-recommend">
             <router-link to="/recommend">推荐</router-link>
           </li>
           <li class="a-drama">
-            <router-link to="/drama">番剧</router-link>
+            <router-link to="/drama">电影</router-link>
           </li>
           <li class="a-disport">
+            <router-link to="/disport">电视剧</router-link>
+          </li>
+          <li class="a-article">
+            <router-link to="/article">综艺</router-link>
+          </li>
+          <!--<li class="a-disport">
             <router-link to="/disport">娱乐</router-link>
           </li>
           <li class="a-article">
@@ -33,7 +39,7 @@
           </li>
           <li class="a-channel">
             <router-link to="/channel">频道</router-link>
-          </li>
+          </li>-->
         </ul>
       </div>
     </div>

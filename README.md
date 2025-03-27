@@ -1,6 +1,6 @@
 # Vue全家桶仿移动端AcFun弹幕视频网WebApp
 
-> 个人实现的一个较为完整的vue项目（1.0版本），部分细节还在优化中，欢迎star！star！star！
+> 个人实现的一个较为完整的vue项目（1.0版本），部分细节还在优化中，欢迎star！star！star！ goggog
 
 ## 项目描述
 
